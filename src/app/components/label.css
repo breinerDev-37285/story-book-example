@@ -1,0 +1,23 @@
+.normal {
+    font-size: 12px;
+}
+
+.small {
+    font-size: 10px;
+}
+
+.medium {
+    font-size: 16px;
+}
+
+.large {
+    font-size: 20px;
+}
+
+.primary {
+    color: blue
+}
+
+.secondary {
+    color: magenta
+}
